@@ -1,3 +1,6 @@
 Archivo escrito por mi Nivus
+<<<<<<< HEAD
 
-Segunda escritura
+Dejo la mia ok, asi quedara
+
+
